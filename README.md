@@ -1,4 +1,4 @@
-# proje2020
+# Lexical Analyzer and Interpreter 2020
 \1) 
 
 ![](https://github.com/Aeglos007/proje2020/blob/main/images/Aspose.Words.b74e66cf-18f3-44a1-b641-866a926645ae.001.jpeg)
