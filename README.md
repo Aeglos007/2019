@@ -1,5 +1,5 @@
 # Lexical Analyzer and Interpreter 2020
-\1) 
+1) 
 
 ![](https://github.com/Aeglos007/proje2020/blob/main/images/Aspose.Words.b74e66cf-18f3-44a1-b641-866a926645ae.001.jpeg)
 
@@ -81,13 +81,13 @@ The substring function we created opens the new file we created and checks it by
 
 In our main function, we first define the current file and open the binary file for reading with rb. We print the error messages to our new file with pererror. The Fseek function specifies the location for the reminder. Returns the active file location of the stream indicated by the stream parameter with the ftell function. With the Rewind function, it takes the active file location of the stream indicated by the Stream parameter to the top. We used calloc function for dynamic memory usage and control file closure. Then we performed the operations and closed the file. 
 
-\2) 
+2) 
 
 ![](https://github.com/Aeglos007/proje2020/blob/main/images/Aspose.Words.b74e66cf-18f3-44a1-b641-866a926645ae.025.jpeg)
 
 ![](https://github.com/Aeglos007/proje2020/blob/main/images/Aspose.Words.b74e66cf-18f3-44a1-b641-866a926645ae.026.jpeg)
 
-\3) 
+3) 
 
 ![](https://github.com/Aeglos007/proje2020/blob/main/images/Aspose.Words.b74e66cf-18f3-44a1-b641-866a926645ae.027.jpeg)
 
@@ -118,7 +118,7 @@ A period must be placed at the end of each line in the input. Otherwise this is 
 
 When the loop keyword is detected, a single operation in square brackets can be detected. otherwise the code does not continue to run. 
 
-\4) 
+4) 
 
 ![](https://github.com/Aeglos007/proje2020/blob/main/images/Aspose.Words.b74e66cf-18f3-44a1-b641-866a926645ae.034.jpeg)
 
