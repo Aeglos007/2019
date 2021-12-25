@@ -1,0 +1,10 @@
+int size.
+int dus.
+int sum.
+move 2 to size.
+move 3 to sum.
+move size to dus.
+add size to sum.
+loop size times
+[ add size to sum.]
+sub 2 from size.

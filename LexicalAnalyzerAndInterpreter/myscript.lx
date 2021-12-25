@@ -1,0 +1,56 @@
+'int' is a keyword.
+'size' is a variable.
+'.' End of Line.
+'int' is a keyword.
+'dus' is a variable.
+'.' End of Line.
+'int' is a keyword.
+'sum' is a variable.
+'.' End of Line.
+'move' is a keyword.
+'2' is an integer.
+'to' is a keyword.
+'size' is a variable.
+size took the value 2 
+'.' End of Line.
+'move' is a keyword.
+'3' is an integer.
+'to' is a keyword.
+'sum' is a variable.
+sum took the value 3 
+'.' End of Line.
+'move' is a keyword.
+'size' is a variable.
+size , move to value 2  
+ 'to' is a keyword.
+'dus' is a variable.
+dus took the value 2 
+'.' End of Line.
+'add' is a keyword.
+'size' is a variable.
+'to' is a keyword.
+'sum' is a variable.
+sum addition result value 5 
+'.' End of Line.
+'loop' is a keyword.
+'size' is a variable.
+'times' is a keyword.
+'add' is a keyword.
+'size' is a variable.
+'to' is a keyword.
+'sum' is a variable.
+sum addition result value 7 
+'.' End of Line.
+'add' is a keyword.
+'size' is a variable.
+'to' is a keyword.
+'sum' is a variable.
+sum addition result value 9 
+'.' End of Line.
+'.' End of Line.
+'add' is a keyword.
+'4' is an integer.
+'to' is a keyword.
+'size' is a variable.
+size addition result value 6 
+'.' End of Line.
